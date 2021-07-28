@@ -1,4 +1,3 @@
-
 var car,wall;
 var speed,weight;
 
@@ -42,3 +41,4 @@ function draw() {
       }
      drawSprites();
     }
+
